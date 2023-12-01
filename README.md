@@ -31,33 +31,36 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
 
 <div align=center>
   <h3>Languages</h3>
-  
+
+  <div>
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/C%20(LANGUAGE)-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%20(LANGUAGE)-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   </a>
 
   <a href="https://www.oracle.com/fr/java/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23268AC8?style=for-the-badge&logo=oracle">
   </a>
 
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-
   <a href="https://www.python.org/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
 
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
-  </a>
-
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/BASH-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  </a>
+  </div>
+
+  <div>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
 
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
@@ -67,6 +70,7 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
+  </div>
 </div>
 
 <div align=center>
@@ -157,11 +161,8 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
 
 <div align=center>
   <h3>Tools</h3>
-  
-  <a href="" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GITKRAKEN-%23179287?style=for-the-badge&logo=gitkraken&logoColor=white">
-  </a>
 
+  <div>
   <a href="" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/VS%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </a>
@@ -171,15 +172,17 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
   </a>
 
   <a href="" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NEOVIM-%2357A143?style=for-the-badge&logo=neovim&logoColor=white">
+  </a>
+  </div>
+
+  <div>
+  <a href="" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/ITERM%202-%23000000?style=for-the-badge&logo=iterm2&logoColor=white">
   </a>
 
   <a href="" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/TERMIUS-%23000000?style=for-the-badge&logo=termius&logoColor=white">
-  </a>
-
-  <a href="" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/NEOVIM-%2357A143?style=for-the-badge&logo=neovim&logoColor=white">
   </a>
 
   <a href="" target="_blank">
@@ -191,8 +194,13 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
   </a>
 
   <a href="" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GITKRAKEN-%23179287?style=for-the-badge&logo=gitkraken&logoColor=white">
+  </a>
+
+  <a href="" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/ARC-%23FCBFBD?style=for-the-badge&logo=arc&logoColor=black">
   </a>
+  </div>
 </div>
 
 <br>
@@ -220,7 +228,7 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
 <div align=center>
   <h2>Contact me</h2>
   
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/thomasremy7/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
