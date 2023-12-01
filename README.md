@@ -218,9 +218,9 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
 <div align=center>
   <h2>GitHub statistics</h2>
 
-  <img height=200 src="https://github-readme-stats.thomasremy.fr/api?username=gzirysz&show_icons=true&custom_title=Statistiques%20GitHub&rank_icon=github&hide=issues" />
+  <img height=150 src="https://github-readme-stats.thomasremy.fr/api?username=gzirysz&show_icons=true&custom_title=Statistiques%20GitHub&hide_rank=true&hide=issues" />
 
-  <img height=200 src="https://github-readme-stats.thomasremy.fr/api/top-langs/?username=gzirysz&hide=purebasic&layout=donut" />
+  <img height=150 src="https://github-readme-stats.thomasremy.fr/api/top-langs/?username=gzirysz&hide=purebasic&layout=donut" />
 </div>
 
 <br>
