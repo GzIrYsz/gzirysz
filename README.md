@@ -116,6 +116,10 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
 
 <div align=center>
   <h3>Cloud & Hosting</h3>
+
+  <a href="https://www.openstack.org/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/OPENSTACK-%23ED1944?style=for-the-badge&logo=openstack&logoColor=white">
+  </a>
   
   <a href="https://www.ovhcloud.com/fr/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/OVH-%23123F6D?style=for-the-badge&logo=ovh&logoColor=white">
