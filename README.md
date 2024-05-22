@@ -1,12 +1,10 @@
 <div align=center>
-  <a href="https://git.io/typing-svg">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
         srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=35&duration=3000&pause=4000&color=FFCAA6&center=true&vCenter=true&repeat=true&random=false&width=435&height=95&lines=Hi+%F0%9F%91%8B%2C+I'm+Thomas" />
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=35&duration=3000&pause=4000&color=003559&center=true&vCenter=true&repeat=true&random=false&width=435&height=95&lines=Hi+%F0%9F%91%8B%2C+I'm+Thomas" alt="Hi, I'm Thomas" />
     </picture>
-  </a>
 </div>
 
 ## About me
