@@ -15,13 +15,12 @@
 
 I'm a French student in my final year of a Bachelor's degree in Computer Science, passionnate about new technologies and everything I do in general.
 
-- 🔭 I'm currently working on my portfolio to promote my skills and showcase the projects I've done
-- 🌱 I'm currently learning about React and Next.js (I realize out that I should have started ealier 😅)
-- 👯 I’m looking to collaborate on anything 🤷‍♂️
-- 🤔 I’m looking for help with front end design
+- 🔭 I'm currently working on a simulation of a robot model of stress modulated exploration (as part of an internship)
+- 🌱 I'm currently learning about simulation building in Python
+- 👯 I’m not looking to collaborate right now, but maybe later this year
+- 🤔 I’m not looking for help at the moment, I'm working on my own
 - 💬 Ask me about how to make a good cup of coffee ☕
 - 📫 How to reach me: [here](#contact-me)
-- ⚡ Fun fact: ...
 
 <br>
 
