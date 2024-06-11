@@ -164,41 +164,41 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
   <h3>Tools</h3>
 
   <div>
-  <a href="" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/VS%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://www.jetbrains.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/JETBRAINS%20IDE-%23000000?style=for-the-badge&logo=jetbrains&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://neovim.io/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/NEOVIM-%2357A143?style=for-the-badge&logo=neovim&logoColor=white">
   </a>
   </div>
 
   <div>
-  <a href="" target="_blank">
+  <a href="https://iterm2.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/ITERM%202-%23000000?style=for-the-badge&logo=iterm2&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://termius.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/TERMIUS-%23000000?style=for-the-badge&logo=termius&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://www.vmware.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/VMWARE-%23607078?style=for-the-badge&logo=vmware&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://www.atlassian.com/fr" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://www.gitkraken.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/GITKRAKEN-%23179287?style=for-the-badge&logo=gitkraken&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://arc.net/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/ARC-%23FCBFBD?style=for-the-badge&logo=arc&logoColor=black">
   </a>
   </div>
@@ -208,10 +208,14 @@ I'm a French student in my final year of a Bachelor's degree in Computer Science
 
 <div align=center>
   <h2>My machines</h2>
-  
-  <img alt="Static Badge" src="https://img.shields.io/badge/APPLE-MacBook%20Pro%202023-%23000000?style=for-the-badge&logo=apple&logoColor=white">
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/DELL-LATITUDE%205490-%23007DB8?style=for-the-badge&logo=dell&logoColor=white">
+  <a href="https://www.apple.com/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/APPLE-MacBook%20Pro%202023-%23000000?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
+
+  <a href="https://www.dell.com/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/DELL-LATITUDE%205490-%23007DB8?style=for-the-badge&logo=dell&logoColor=white">
+  </a>
 </div>
 
 <br>
